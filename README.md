@@ -1,1 +1,1 @@
-# Galaxy-Classification-Using-Sloan-Digital-Sky-Survey-SDSS-Data
+# Palomar-Observatory-Sky-Survey-Data-(POSS)
